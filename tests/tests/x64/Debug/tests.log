@@ -1,0 +1,7 @@
+﻿  tests.cpp
+C:\Users\сервис\source\repos\tests\tests\tests.cpp(224,41): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\сервис\source\repos\tests\tests\tests.cpp(233,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\сервис\source\repos\tests\tests\tests.cpp(421,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\сервис\source\repos\tests\tests\tests.cpp(422,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\сервис\source\repos\tests\tests\tests.cpp(763,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tests.vcxproj -> C:\Users\сервис\source\repos\tests\x64\Debug\tests.exe
